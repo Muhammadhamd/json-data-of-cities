@@ -174,7 +174,7 @@
     { "name": "Cayenne, French Guiana", "latitude": 4.9220, "longitude": 52.3135 },
     { "name": "Georgetown, Guyana", "latitude": 6.8013, "longitude": 58.1551 },
     { "name": "Stanley, Falkland Islands", "latitude": -51.6948, "longitude": -57.8521 },
-    [
+    
   {
     "city": "Vancouver",
     "country": "Canada",
@@ -967,7 +967,7 @@
     "latitude": -26.4667,
     "longitude": 31.2000
   }
-]
+
 
   ]
 }
